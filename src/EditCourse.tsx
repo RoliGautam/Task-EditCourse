@@ -65,7 +65,7 @@ const EditCourse = () => {
 
   return (
     <Paper>
-    <h2>Edit Couse Details</h2>
+    <h2>Edit Course Details</h2>
 
     <form onSubmit={handleSubmit(onSubmit)}>
       <Controller
